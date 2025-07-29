@@ -9,9 +9,9 @@ The repository is structured into folders for each subject offered in **Semester
 ### **1️⃣ Digital Logic Design (DLD - Theory)**  
 - Lecture Slides 📑  
 - Refrence Books 📚  
-- Practice Problems ⚙️  
-- Past Papers 📜  
-
+- Past Papers 📜
+- Assignments 📂  
+ 
 ### **2️⃣ Digital Logic Design Lab (DLD - Lab)**  
 - Lab Tasks 💻  
 - Circuit Diagrams 🔌  
@@ -22,10 +22,9 @@ The repository is structured into folders for each subject offered in **Semester
 - Past Papers 📜  
 
 ### **4️⃣ Multivariable Calculus (MVC)**  
-- Solved Examples 📚  
-- Lecture Notes 🧾  
+- Lecture Slides 📑 
 - Assignments 📂  
-- Past Papers & MCQs 📝  
+- Past Papers 📜 
 
 ### **5️⃣ Object-Oriented Programming (OOP - Theory)**  
 - Lecture Slides 📑  
